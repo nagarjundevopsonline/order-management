@@ -1,5 +1,3 @@
 apple
 dell
 lenovo
-hp
-acer
